@@ -21,9 +21,7 @@ p, li {
     line-height: 1.6;
 }
 
-body {
-    padding-bottom: 30px;
-}nav {
+nav {
     background-color: #1b5e20;
     padding: 15px;
     text-align: center;
